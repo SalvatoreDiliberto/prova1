@@ -1,0 +1,8 @@
+- name salvatore
+- surname diliberto
+- age 30 
+- city caltanissetta
+- hobby padel
+- favoriteFood pizza
+- favoriteVideoGame fifa
+- favoriteFilm the big short
